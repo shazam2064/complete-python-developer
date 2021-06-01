@@ -53,6 +53,6 @@ if Golden_Experience_Requiem > King_Crimson:
     if 5 < 7:
         print("5 < 7")
     else:
-        print("WRYYYYYYYY")
+        print("WRYYYYYYYYYYY")
 else:
     print("if statement evaluated to false")
